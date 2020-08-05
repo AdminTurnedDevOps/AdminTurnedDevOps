@@ -1,4 +1,4 @@
-Michael Levan is a tech enthusiast and engineer at heart. He does Developer Relations (Dev Rel) at Octopus Deploy, a continuous deployment and automation tool. He is also the Founder & Chief Engineer at CloudDev.Engineering LLC. Michael is a blogger, Azure developer, public speaker, author, all-around content developer, and utterly fascinated with DevOps and Cloud Engineering.
+Michael Levan is a tech enthusiast and engineer at heart. He is a Developer Advocate (Dev Rel) at Octopus Deploy, a continuous deployment and automation tool. He is also the Founder & Chief Engineer at CloudDev.Engineering LLC. Michael is a blogger, Azure developer, public speaker, author, all-around content developer, and utterly fascinated with DevOps and Cloud Engineering.
 
 
 - 🔭 I’m currently working on all things PowerShell, Python, and HCL that typically consist of automation in the Azure space.

@@ -1,4 +1,4 @@
-Michael Levan is an engineer at heart. He is a cloud developer, DevOps pro, and loves helping the community by speaking internationally, blogging, writing books, and creating courses. He is Senior Partner & Chief Architect at CloudSkills.io, a Cloud & DevOps Enablement consulting/training firm, where he spends his time creating real-world based content and consulting for customers around the globe.
+Michael Levan is an engineer at heart. He is a cloud developer, DevOps pro, and loves helping the community by speaking internationally, blogging, writing books, and creating courses. He is CTO & Senior Partner at CloudSkills.io, a Cloud & DevOps Enablement consulting/training firm, where he spends his time creating real-world based content and consulting for customers around the globe.
 Want to see what he is up to? https://www.michaellevan.net/ or Twitter @TheNJDevOpsGuy
 
 

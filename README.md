@@ -2,7 +2,7 @@ Michael Levan is an engineer at heart. He is a cloud developer, DevOps pro, and 
 Want to see what he is up to? https://www.michaellevan.net/ or Twitter @TheNJDevOpsGuy
 
 
-- 🔭 I’m currently working on all things development/automation using Go, PowerShell, Python, and HCL that typically consist of Azure and AWS.
+- 🔭 I’m currently working on all things development, automation, and cloud using Python and HCL that typically consist of AWS.
 - 💬 Ask me about development, cloud engineering, content creation, public speaking, and collaborating with the world!
 - 📫 How to reach me: Twitter: @TheNJDevOpsGuy or email: michael.levan@clouddev.engineering
 - 😄 Home Base: https://www.michaellevan.net/

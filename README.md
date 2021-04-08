@@ -27,8 +27,8 @@ Michael Levan is an engineer at heart. He is an AWS cloud pro, DevOps practition
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.michaellevan.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/michaellevan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.michaellevan.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.michaellevan.net.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/michaellevan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@michaellevan-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/thenjdevopsguy" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/thenjdevopsguy?style=social"></a>
 <a href="mailto:michael.levan@clouddev.engineering"><img alt="Email" src="https://img.shields.io/badge/Email-michael.levan@clouddev.engineering-blue?style=flat&logo=gmail"></a>
 </p>

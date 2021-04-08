@@ -7,6 +7,10 @@
 > CTO, Cloud Developer, and DevOps Pro
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=AdminTurnedDevOps.AdminTurnedDevOps)
+
+
+
 <div>
  <p>
 Michael Levan is an engineer at heart. He is an AWS cloud pro, DevOps practitioner, and loves helping the community by speaking internationally, blogging, writing books, and creating courses. He is CTO & Senior Partner at CloudSkills.io, a Cloud & DevOps Enablement consulting/training firm, where he spends his time creating real-world based content and consulting for customers around the globe.

@@ -7,8 +7,6 @@
 > CTO, Cloud Developer, and DevOps Pro
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AdminTurnedDevOps.AdminTurnedDevOps)
-
 
 
 <div>

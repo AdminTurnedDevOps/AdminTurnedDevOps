@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> CTO, Cloud Developer, and DevOps Pro
+> CTO, AWS Cloud Developer, and DevOps Pro
 
 
 

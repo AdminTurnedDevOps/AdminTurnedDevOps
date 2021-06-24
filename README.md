@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> Educator, Consultant, AWS Cloud Enthusiast, and DevOps Pro
+> Educator, Consultant, Cloud Enthusiast, and DevOps Pro
 
 
 

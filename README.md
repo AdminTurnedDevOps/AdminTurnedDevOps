@@ -6,7 +6,7 @@
 
 <div>
  <p>
-Michael Levan is an engineer at heart. He is an AWS cloud pro, DevOps practitioner, and loves helping the community by speaking internationally, blogging, writing books, and creating courses. He is CTO & Senior Partner at CloudSkills.io, a Cloud & DevOps Enablement consulting/training firm, where he spends his time creating real-world based content and consulting for customers around the globe.
+Michael Levan is an engineer at heart. He is a cloud enthusiast, DevOps pro, HashiCorp Ambassador, and loves helping the tech community by speaking internationally, blogging, publishing books, and creating online courses. Michael spends his time creating real-world, project-focused based content, coaching engineers on how to create quality work, performing technical research for various firms, and consulting for customers around the globe on cloud and DevOps projects.
    
    
 - 🔭 I’m currently working on all things development, automation, and cloud using Python and HCL that typically consist of AWS.

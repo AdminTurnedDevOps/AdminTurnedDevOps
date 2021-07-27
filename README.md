@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> Researcher, Consultant, Enginer
+> Researcher, Consultant, Engineer
 
 
 

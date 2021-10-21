@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> Researcher, Engineer, & Productivity Enthusiast
+> Engineer, Researcher, and Content Creator
 
 
 

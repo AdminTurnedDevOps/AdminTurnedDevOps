@@ -6,11 +6,11 @@
 
 <div>
  <p>
-Michael Levan is an engineer at heart. He is a cloud enthusiast, DevOps pro, HashiCorp Ambassador, and loves helping the tech community by speaking internationally, blogging, publishing books, and creating online courses. Michael spends his time creating real-world, project-focused based content, coaching engineers on how to create quality work, performing technical research for various firms, and consulting for customers around the globe on cloud and DevOps projects.
+Michael Levan is a seasoned engineer and consultant in the Kubernetes space who spends his time working with startups and enterprises around the globe on Kubernetes and cloud-native projects. He also performs technical research, creates real-world, project-focused content, and coaches engineers on how to cognitively embark on their engineering journey. He is a DevOps pro, HashiCorp Ambassador, AWS Community Builder, and loves helping the tech community by public speaking internationally, blogging, and authoring tech books.
    
    
-- 🔭 I’m currently working on all things research & consulting around DevOps and Computer Science that require my mind to go as deep as possible 
-- 💬 Ask me about DevOps, cloud engineering, content creation, public speaking, and collaborating with the world!
+- 🔭 I’m currently working on all things consulting, writing, and content around Kubernetes 
+- 💬 Ask me about Kubernetes, cloud-native, DevOps, content creation, public speaking, and collaborating with the world!
 - 📫 How to reach me: Twitter: @TheNJDevOpsGuy or email: michael.levan@clouddev.engineering
 - 😄 Home Base: https://www.michaellevan.net/
 

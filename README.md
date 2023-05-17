@@ -28,10 +28,6 @@ Michael Levan is a seasoned engineer and consultant in the Kubernetes space who 
 </p>
 
 
-### Github Stats
-
-[![Michael Levan GitHub Stats](https://github-readme-stats.vercel.app/api?username=adminturneddevops&show_icons=true&count_private=true)](https://github.com/adminturneddevops)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

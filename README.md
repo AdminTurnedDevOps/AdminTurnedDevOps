@@ -1,15 +1,15 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> Engineer, Researcher, and Content Creator
+> Engineer, Trainer, Consultant, And Content Creator
 
 
 
 
 <div>
  <p>
-Michael Levan is a seasoned engineer and consultant in the Kubernetes space who spends his time working with startups and enterprises around the globe on Kubernetes and cloud-native projects. He also performs technical research, creates real-world, project-focused content, and coaches engineers on how to cognitively embark on their engineering journey. He is a DevOps pro, HashiCorp Ambassador, AWS Community Builder, and loves helping the tech community by public speaking internationally, blogging, and authoring tech books.
+Michael Levan is a seasoned engineer and consultant in the Kubernetes and Platform Engineering space who spends his time working with startups and enterprises around the globe on Kubernetes consulting, training, and content creation. He is a trainer, 4x published author, podcast host, international public speaker, CNCF Ambassador, and was part of the Kubernetes v1.28 and v1.31 Release Team.
    
    
-- 🔭 I’m currently working on all things consulting, writing, and content around Kubernetes 
+- 🔭 I’m currently working on all things consulting, content, and training around Kubernetes and Platform Engineering.
 - 💬 Ask me about Kubernetes, cloud-native, DevOps, content creation, public speaking, and collaborating with the world!
 - 📫 How to reach me: Twitter: @TheNJDevOpsGuy or email: michael.levan@clouddev.engineering
 - 😄 Home Base: https://www.michaellevan.net/

@@ -6,7 +6,7 @@
 
 <div>
  <p>
-Michael Levan translates technical complexity into practical value. He is a seasoned engineer, consultant, trainer, and content creator in the Kubernetes and Platform Engineering space who spends his time working with startups and enterprises around the globe. Michael is also a Microsoft MVP, 4x published author, podcast host, international public speaker, CNCF Ambassador, and was part of the Kubernetes v1.28 Release Team.
+Michael Levan translates technical complexity into practical value. He is a seasoned engineer, consultant, trainer, and content creator in the Kubernetes and Platform Engineering space who spends his time working with startups and enterprises around the globe. Michael is also a Microsoft MVP, 4x published author, podcast host, international public speaker, CNCF Ambassador, and was part of the Kubernetes v1.28 and v1.31 Release Team.
    
    
 🔭 I’m currently working on consulting, content, and training related to App Modernization, Hybrid Cloud, Performance, and Scalability.

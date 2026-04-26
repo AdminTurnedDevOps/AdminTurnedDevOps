@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Michael Levan](https://www.michaellevan.net)
-> Engineer, Trainer, Consultant, Researcher, & Content Creator
+> AI Architect, Engineer, Trainer, Advisor, & Content Creator
 
 
 
